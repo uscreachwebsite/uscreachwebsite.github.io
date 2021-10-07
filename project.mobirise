@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "USC Reach",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -44,7 +44,7 @@
     "uniqCompNum": 40,
     "versionPublish": "5.4.1",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "favicon": "@PROJECT_PATH@/assets/images/reachlog-copy-128x128_1.png",
     "mbrsiteDomain": "uscreachdemo",
     "robotsSwitcher": false,
