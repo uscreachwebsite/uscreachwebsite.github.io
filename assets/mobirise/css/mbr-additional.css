@@ -2352,7 +2352,7 @@ a {
   margin-right: 0.6rem;
   margin-bottom: 1rem;
   padding: 0.5rem;
-  border: 2px solid #e43f3f;
+  border: 2px solid #bbbbbb;
   transition: all 0.3s;
 }
 .cid-sL6qLMDKbJ .social-row .soc-item .mbr-iconfont {
@@ -2360,14 +2360,14 @@ a {
   display: flex;
   justify-content: center;
   align-content: center;
-  color: #e43f3f;
+  color: #bbbbbb;
   font-size: 1.5rem;
 }
 .cid-sL6qLMDKbJ .social-row .soc-item:hover {
-  background-color: #e43f3f;
+  background-color: #bbbbbb;
 }
 .cid-sL6qLMDKbJ .social-row .soc-item:hover .mbr-iconfont {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-sL6qLMDKbJ .mbr-section-title {
   color: #000000;
@@ -2379,7 +2379,7 @@ a {
 .cid-tqN69wDPTg {
   padding-top: 1rem;
   padding-bottom: 0rem;
-  background: #ffffff;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-tqN69wDPTg .team-card {
   margin-bottom: 2rem;
@@ -2420,7 +2420,7 @@ a {
   margin-right: 0.6rem;
   margin-bottom: 1rem;
   padding: 0.5rem;
-  border: 2px solid #e43f3f;
+  border: 2px solid #bbbbbb;
   transition: all 0.3s;
 }
 .cid-tqN69wDPTg .social-row .soc-item .mbr-iconfont {
@@ -2428,14 +2428,14 @@ a {
   display: flex;
   justify-content: center;
   align-content: center;
-  color: #e43f3f;
+  color: #bbbbbb;
   font-size: 1.5rem;
 }
 .cid-tqN69wDPTg .social-row .soc-item:hover {
-  background-color: #e43f3f;
+  background-color: #bbbbbb;
 }
 .cid-tqN69wDPTg .social-row .soc-item:hover .mbr-iconfont {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-sL6rVod2iT {
   padding-top: 1rem;
@@ -2481,7 +2481,7 @@ a {
   margin-right: 0.6rem;
   margin-bottom: 1rem;
   padding: 0.5rem;
-  border: 2px solid #e43f3f;
+  border: 2px solid #bbbbbb;
   transition: all 0.3s;
 }
 .cid-sL6rVod2iT .social-row .soc-item .mbr-iconfont {
@@ -2489,14 +2489,14 @@ a {
   display: flex;
   justify-content: center;
   align-content: center;
-  color: #e43f3f;
+  color: #bbbbbb;
   font-size: 1.5rem;
 }
 .cid-sL6rVod2iT .social-row .soc-item:hover {
-  background-color: #e43f3f;
+  background-color: #bbbbbb;
 }
 .cid-sL6rVod2iT .social-row .soc-item:hover .mbr-iconfont {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-sWl2dEXw3W {
   padding-top: 2rem;
@@ -2504,7 +2504,7 @@ a {
   background-color: #ffffff;
 }
 .cid-sWl2dEXw3W blockquote {
-  border-color: #ffe161;
+  border-color: #bbbbbb;
   border-radius: 4px;
   background-color: #fafafa;
 }
@@ -2982,7 +2982,7 @@ a {
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  border: 2px solid #ff6666;
+  border: 2px solid #bbbbbb;
   margin-left: -9px;
   padding: 0;
 }
@@ -3001,7 +3001,7 @@ a {
 .cid-sL8gXscuN5 .row:after {
   content: "";
   position: absolute;
-  background-color: #ff6666;
+  background-color: #bbbbbb;
   width: 2px;
 }
 @media (max-width: 767px) {
@@ -3584,7 +3584,7 @@ a {
   color: #6592e6;
 }
 .cid-sLaAgWdDFa P {
-  color: #ff6666;
+  color: #000000;
 }
 .cid-sLaA418iJ0 {
   padding-top: 1rem;
