@@ -1165,7 +1165,7 @@ a {
 .cid-sL6igfxsXe {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/screenshot-2024-04-29-at-2.48.28-pm-2000x1331.png");
+  background-image: url("../../../assets/images/screenshot-2024-04-29-at-2.57.21-pm-2000x1329.png");
 }
 .cid-sL6igfxsXe .bg-facebook {
   background: #1778f2;
@@ -1209,6 +1209,10 @@ a {
 .cid-sL6igfxsXe [class*=" socicon-"]:before {
   line-height: 55px;
   padding: .6rem;
+}
+.cid-sL6igfxsXe .mbr-section-title,
+.cid-sL6igfxsXe .social-list {
+  color: #ffffff;
 }
 .cid-sWoh4Pd09M .navbar-dropdown {
   position: relative !important;
