@@ -22,7 +22,19 @@
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=K9lWKf"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=K9lWKf" type="text/css">
 
   
-  
+  <style>
+    #team1-2j .image-wrap {
+      aspect-ratio: 1 / 1; /* Creates a perfect square for the image container */
+      overflow: hidden;    /* Hides any part of the image that overflows the square */
+      border-radius: 8px;  /* Optional: gives the images slightly rounded corners */
+    }
+    #team1-2j .image-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;     /* This is the key property: it scales the image to fill the container without distortion, cropping it if necessary */
+      object-position: center; /* Ensures the image is centered within the frame */
+    }
+  </style>
   
 </head>
 <body>
